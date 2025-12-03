@@ -1,1 +1,1 @@
-PLACEHOLDER
+This folder contains all the required screenshots for the SEPM Assignment 2 submission.
